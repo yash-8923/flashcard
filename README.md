@@ -39,7 +39,7 @@ A modern flashcard application built with Next.js and Tailwind CSS, featuring a 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/yash-8923/flashcard.git
 cd [project-directory]
 ```
 
